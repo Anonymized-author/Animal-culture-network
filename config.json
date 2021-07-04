@@ -13,13 +13,13 @@
     "title": "The concept of culture in animal behaviour research: Author keywords network"
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Coocurrence between keywords",
+    "colorLabel": "Modularity class",
+    "nodeLabel": "Author keyword in academic publication"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "color",
     "hoverBehavior": "default"
   },
   "informationPanel": {
